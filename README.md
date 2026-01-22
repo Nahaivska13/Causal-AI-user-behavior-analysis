@@ -1,7 +1,3 @@
-# Causal-AI-user-behavior-analysis
-
----
-
 # Causal Analysis of User Behavior Data
 
 ## Project Overview
